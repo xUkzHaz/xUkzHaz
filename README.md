@@ -103,9 +103,9 @@ I'm particularly interested in roles that involve problem-solving, understanding
 
 ## 📫 Contact
 
-- **GitHub:** [Your GitHub Profile URL]
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your Professional Email]
+- **GitHub:** https://github.com/HarryCla
+- **LinkedIn:** N/A
+- **Email:** h4rryclark@outlook.com
 
 ---
 
