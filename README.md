@@ -103,7 +103,7 @@ I'm particularly interested in roles that involve problem-solving, understanding
 
 ## 📫 Contact
 
-- **GitHub:** https://github.com/HarryCla
+- **GitHub:** https://github.com/xUkzHaz
 - **LinkedIn:** N/A
 - **Email:** h4rryclark@outlook.com
 
